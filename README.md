@@ -38,4 +38,4 @@ Je documente mon parcours sur **Karis Dev** — tutos n8n, Botpress, Python et m
 
 ## 🔗 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-karis-zogo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-karis-zogo)
